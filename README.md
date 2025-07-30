@@ -42,7 +42,7 @@ Take a look at how the API is structured and documented using Swagger UI:
 |------------------------------------|----------------------------------------------------------|
 | **Student & School APIs**          | ![Student API](screenshots/student.png)                  |
 | **Subject and Assignment APIs**    | ![Subject API](screenshots/subject.png)                  |
-| **Classroom & Teacher Assignment** | ![Classroom API](screenshots/classroom.png)              |
+| **Classroom Assignment**           | ![Classroom API](screenshots/classroom.png)              |
 | **School & Teacher Management**    | ![School & Teacher API](screenshots/school-teacher.png)  |
 
 ---
